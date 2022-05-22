@@ -1,0 +1,8 @@
+{
+    "username" : "Ritesh",
+   "location" :{
+       "city" : "Pune",
+       "state" : "Maharashtra",
+       "country" : "India"
+    }
+}

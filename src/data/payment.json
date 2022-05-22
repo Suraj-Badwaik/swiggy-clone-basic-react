@@ -1,0 +1,6 @@
+{
+    "paymentMethod" : {
+        "cash" : true,
+        "card" : true
+    }
+}
